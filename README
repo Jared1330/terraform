@@ -1,0 +1,30 @@
+Set AWS Credentials in Linux Shell:
+export AWS_ACCESS_KEY_ID="xxxxxxxxxxxxxxxxx"
+export AWS_SECRET_ACCESS_KEY="yyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+export AWS_DEFAULT_REGION="zzzzzzzzz"
+
+Terraform Commands:
+terraform -v
+terraform init
+terraform plan
+terraform validate
+terraform apply
+terraform destroy
+terraform show
+terraform output
+terraform console
+terraform import
+terraform taint
+
+
+Terraform State Commands:
+terraform state show
+terraform state list
+terraform state pull
+terraform state rm
+terraform state mv
+terraform state push
+
+
+
+
